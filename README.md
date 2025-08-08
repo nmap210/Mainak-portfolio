@@ -28,4 +28,4 @@ This website showcases my **projects**, **skills**, and **achievements** in AI, 
 
 ## 📬 Contact Me
 - **LinkedIn:** [Mainak Bose](https://www.linkedin.com/in/mainak-bose-b139611a0/)
-- **Email:** your-email@example.com
+- **Email:** mainakbose1234@gmail.com
