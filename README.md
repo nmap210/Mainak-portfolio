@@ -22,7 +22,7 @@ This website showcases my **projects**, **skills**, and **achievements** in AI, 
 ---
 
 ## 🔗 Live Website
-[**View Portfolio**](https://<your-username>.github.io/mainak-portfolio/)  
+[**View Portfolio**] : https://nmap210.github.io/Mainak-portfolio/
 
 ---
 
